@@ -14,6 +14,7 @@ Contributors: (please add yourself)
 ))
 * John P. McCrae
 * Sander Stolk
+* Daniela Gifu
 * ...
 
 [Copyright](https://www.w3.org/Consortium/Legal/ipr-notice#Copyright) © 2020 the Contributors to the The Ontolex Module for Frequency, Attestation and Corpus Information Specification, published by [Ontology Lexica](http://www.w3.org/community/ontolex/) under the [W3C Community Contributor License Agreement (CLA)](https://www.w3.org/community/about/agreements/cla/). A human-readable summary is [available](https://www.w3.org/community/about/agreements/cla-deed/). 
